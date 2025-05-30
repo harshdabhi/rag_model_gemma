@@ -60,10 +60,4 @@ ollama run nomic-embed-text
 ```bash
 streamlit run app.py
 ```
-### Project structure 
-
-├── app.py                 # Main Streamlit app
-├── temp_uploaded_pdfs/   # Temp storage for uploaded PDFs
-├── requirements.txt       # Python dependencies
-└── README.md              # You’re here!
 
